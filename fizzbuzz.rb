@@ -6,5 +6,3 @@ def fizzbuzz(number)
   end
 
 end
-
-puts fizzbuzz(3)
