@@ -4,5 +4,7 @@ def fizzbuzz(number)
   if number / 3
     "Fizz"
   end
-
+  if number / 5
+    "Fizz"
+  end
 end
