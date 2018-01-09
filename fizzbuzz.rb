@@ -5,6 +5,6 @@ def fizzbuzz(number)
     "Fizz"
   end
   if number / 5
-    "Fizz"
+    "Buzz"
   end
 end
