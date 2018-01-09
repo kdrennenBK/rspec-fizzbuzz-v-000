@@ -3,8 +3,9 @@ def fizzbuzz(number)
   #number = (1)upto100
   if number / 3
     "Fizz"
-  end
-  if number / 5
+  elsif number / 5
     "Buzz"
+  elsif number / 3 && number / 5
+    "Fizzbuzz"
   end
 end
