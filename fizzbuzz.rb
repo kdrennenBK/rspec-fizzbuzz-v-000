@@ -3,7 +3,6 @@ def fizzbuzz(number) #number = 15
   #number = (1)upto100
   if number % 3 == 0  && number % 5 == 0
     "FizzBuzz"
-  end
   elsif number % 3 == 0
     "Fizz"
   elsif number % 5 == 0
